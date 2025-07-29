@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Sakshi Naithani
+**A passionate ML Engineer || Data Scientist || Backend Devloper**
+
+Email Me 👉 ✉️ **sakshinaithani26@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** End to End Ml pipelines projects 
+- 🌱 **I’m currently learning:** Mlops
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sakshinaithani26@gmail.com
+- 😄 **Pronouns:** Sakshi  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sakshi-naithani-974192338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshinaithani26@gmail.com) 
