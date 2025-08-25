@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009900&size=30&lines=Hey!+ 💫+ It's+Sakshi!+👋;I'm+a+Back+End+Developer;I'm+a+Data+Science+Engineer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009900&size=30&lines=Hey!+%F0%9F%92%AB+It%27s+Sakshi!+%F0%9F%91%8B;I%27m+a+Back+End+Developer;I%27m+a+Data+Science+Engineer" alt="Typing SVG for Sakshi" />
+</p>
+
 
 
 
