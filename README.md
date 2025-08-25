@@ -1,4 +1,7 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009900&size=30&lines=Hey!+It's+Bhavin!+👋;I'm+a+Back+End+Developer;I'm+a+API+Developer)
+<!-- <h1 align="center">Hi 👋, I'm Bhavin</h1> -->
 # 💫 Hi 👋, I'm Sakshi Naithani
+
 **A passionate ML Engineer || Data Scientist || Backend Devloper**
 
 Email Me 👉 ✉️ **sakshinaithani26@gmail.com** For Collaboration/Project or Anything Else. 😊😊
