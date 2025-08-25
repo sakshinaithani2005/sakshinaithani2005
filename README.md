@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009900&size=30&lines=Hey!+It's+Bhavin!+👋;I'm+a+Back+End+Developer;I'm+a+API+Developer)
-<!-- <h1 align="center">Hi 👋, I'm Bhavin</h1> -->
-# 💫 Hi 👋, I'm Sakshi Naithani
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=009900&size=30&lines=Hey!+ 💫+ It's+Sakshi!+👋;I'm+a+Back+End+Developer;I'm+a+Data+Science+Engineer)
+
+
 
 **A passionate ML Engineer || Data Scientist || Backend Devloper**
 
